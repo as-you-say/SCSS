@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [개발환경 만들기](README.md)
 
